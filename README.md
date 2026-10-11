@@ -1,2 +1,2 @@
 # algorithms-and-datastructures
-Algorithms and datastructures implemented in different languages.
+Algorithms and datastructures implemented in different languages. These algorithms are the ones we learned in the course.
